@@ -1,4 +1,4 @@
-bisquit
+Bisquit
 =======
 
 Python in Bisquit
